@@ -20,7 +20,8 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 3. [1536. Minimum Swaps to Arrange a Binary Grid](1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid.c++)
 4. [1545. Find Kth Bit in Nth Binary String](1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py)
 5. [1578. Minimum Time To Make Rope Colorful](1578.%20Minimum%20Time%20To%20Make%20Rope%20Colorful.py)
-6. [1611. Minimum One Bit Operations to Make Integers Zero](1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py)
+6. [1582. Special Positions in a Binary Matrix](1582.%20Special%20Positions%20in%20a%20Binary%20Matrix.py)
+7. [1611. Minimum One Bit Operations to Make Integers Zero](1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py)
 7. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
 8. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
 9. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
@@ -32,8 +33,8 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 
 ### 🧮 Summary
 
-- Total problems solved: **14**
-- Python solutions: **13**
+- Total problems solved: **15**
+- Python solutions: **14**
 - C++ solutions: **1**
 
 ---
@@ -57,4 +58,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 3rd, 2026.*
+*Last updated: March 4th, 2026.*
