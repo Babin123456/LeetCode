@@ -24,18 +24,19 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 7. [1611. Minimum One Bit Operations to Make Integers Zero](1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py)
 8. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
 9. [1758. Minimum Changes To Make Alternating Binary String](1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)
-10. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
-11. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
-12. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
-13. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-14. [3321. Find X-Sum of All K-Long Subarrays II](3321.%201318.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-15. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-16. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+10. [1784. Check if Binary String Has at Most One Segment of Ones](1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)
+11. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
+12. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
+13. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
+14. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+15. [3321. Find X-Sum of All K-Long Subarrays II](3321.%201318.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+16. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+17. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **16**
-- Python solutions: **15**
+- Total problems solved: **17**
+- Python solutions: **16**
 - C++ solutions: **1**
 
 ---
@@ -59,4 +60,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 5th, 2026.*
+*Last updated: March 6th, 2026.*
