@@ -34,15 +34,16 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 17. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
 18. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
 19. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-20. [3321. Find X-Sum of All K-Long Subarrays II](3321.%201318.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-21. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-22. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-23. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+20. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+21. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+22. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+23. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+24. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **23**
-- Python solutions: **22**
+- Total problems solved: **24**
+- Python solutions: **23**
 - C++ solutions: **1**
 
 ---
@@ -66,4 +67,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 12th, 2026.*
+*Last updated: March 13th, 2026.*
