@@ -26,27 +26,28 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 9. [1611. Minimum One Bit Operations to Make Integers Zero](1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py)
 10. [1622. Fancy Sequence](1622.%20Fancy%20Sequence.py)
 11. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
-12. [1758. Minimum Changes To Make Alternating Binary String](1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)
-13. [1784. Check if Binary String Has at Most One Segment of Ones](1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)
-14. [1878. Get Biggest Three Rhombus Sums in a Grid](1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid.py)
-15. [1888. Minimum Number of Flips to Make the Binary String Alternating](1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.py)
-16. [1980. Find Unique Binary String](1980.%20Find%20Unique%20Binary%20String.py)
-17. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
-18. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
-19. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
-20. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
-21. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
-22. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-23. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
-24. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-25. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-26. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-27. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+12. [1727. Largest Submatrix With Rearrangements](1727.%20Largest%20Submatrix%20With%20Rearrangements.py)
+13. [1758. Minimum Changes To Make Alternating Binary String](1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)
+14. [1784. Check if Binary String Has at Most One Segment of Ones](1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)
+15. [1878. Get Biggest Three Rhombus Sums in a Grid](1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid.py)
+16. [1888. Minimum Number of Flips to Make the Binary String Alternating](1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.py)
+17. [1980. Find Unique Binary String](1980.%20Find%20Unique%20Binary%20String.py)
+18. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
+19. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
+20. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
+21. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
+22. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
+23. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+24. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+25. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+26. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+27. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+28. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **27**
-- Python solutions: **26**
+- Total problems solved: **28**
+- Python solutions: **27**
 - C++ solutions: **1**
 
 ---
@@ -70,4 +71,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 16th, 2026.*
+*Last updated: March 17th, 2026.*
