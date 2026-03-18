@@ -35,19 +35,20 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 18. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
 19. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
 20. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
-21. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
-22. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
-23. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-24. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
-25. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-26. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-27. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-28. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+21. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
+22. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
+23. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
+24. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+25. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+26. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+27. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+28. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+29. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **28**
-- Python solutions: **27**
+- Total problems solved: **29**
+- Python solutions: **28**
 - C++ solutions: **1**
 
 ---
@@ -71,4 +72,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 17th, 2026.*
+*Last updated: March 18th, 2026.*
