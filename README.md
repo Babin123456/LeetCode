@@ -43,13 +43,14 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 26. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
 27. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
 28. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-29. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-30. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+29. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+30. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+31. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **30**
-- Python solutions: **29**
+- Total problems solved: **31**
+- Python solutions: **30**
 - C++ solutions: **1**
 
 ---
@@ -73,4 +74,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 19th, 2026.*
+*Last updated: March 20th, 2026.*
