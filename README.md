@@ -46,11 +46,12 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 29. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
 30. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
 31. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+32. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **31**
-- Python solutions: **30**
+- Total problems solved: **32**
+- Python solutions: **31**
 - C++ solutions: **1**
 
 ---
@@ -74,4 +75,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 20th, 2026.*
+*Last updated: March 21st, 2026.*
