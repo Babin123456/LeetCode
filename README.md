@@ -30,28 +30,29 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 13. [1758. Minimum Changes To Make Alternating Binary String](1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)
 14. [1784. Check if Binary String Has at Most One Segment of Ones](1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)
 15. [1878. Get Biggest Three Rhombus Sums in a Grid](1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid.py)
-16. [1888. Minimum Number of Flips to Make the Binary String Alternating](1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.py)
-17. [1980. Find Unique Binary String](1980.%20Find%20Unique%20Binary%20String.py)
-18. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
-19. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
-20. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
-21. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
-22. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
-23. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
-24. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
-25. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-26. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
-27. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-28. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-29. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
-30. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-31. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-32. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+16. [1886. Determine Whether Matrix Can Be Obtained By Rotation](1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py)
+17. [1888. Minimum Number of Flips to Make the Binary String Alternating](1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.py)
+18. [1980. Find Unique Binary String](1980.%20Find%20Unique%20Binary%20String.py)
+19. [2169. Count Operations to Obtain Zero](2169.%20Count%20Operations%20to%20Obtain%20Zero.py)
+20. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
+21. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
+22. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
+23. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
+24. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
+25. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
+26. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+27. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+28. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+29. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+30. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+31. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+32. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+33. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **32**
-- Python solutions: **31**
+- Total problems solved: **33**
+- Python solutions: **32**
 - C++ solutions: **1**
 
 ---
@@ -75,4 +76,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 21st, 2026.*
+*Last updated: March 22nd, 2026.*
