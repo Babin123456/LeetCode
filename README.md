@@ -46,15 +46,16 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 29. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
 30. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
 31. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-32. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
-33. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-34. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-35. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+32. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
+33. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+34. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+35. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+36. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **35**
-- Python solutions: **34**
+- Total problems solved: **36**
+- Python solutions: **35**
 - C++ solutions: **1**
 
 ---
@@ -78,4 +79,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 24th, 2026.*
+*Last updated: March 25th, 2026.*
