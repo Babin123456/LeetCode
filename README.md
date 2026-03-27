@@ -38,25 +38,26 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 21. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
 22. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
 23. [2906. Construct Product Matrix](2906.%20Construct%20Product%20Matrix.py)
-24. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
-25. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
-26. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
-27. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
-28. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-29. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
-30. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-31. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-32. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
-33. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
-34. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
-35. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-36. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-37. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+24. [2946. Matrix Similarity After Cyclic Shifts](2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts.py)
+25. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
+26. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
+27. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
+28. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
+29. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+30. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+31. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+32. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+33. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
+34. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
+35. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+36. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+37. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+38. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **37**
-- Python solutions: **36**
+- Total problems solved: **38**
+- Python solutions: **37**
 - C++ solutions: **1**
 
 ---
@@ -80,4 +81,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: March 26th, 2026.*
+*Last updated: March 27th, 2026.*
