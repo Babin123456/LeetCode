@@ -49,19 +49,20 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 32. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
 33. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
 34. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-35. [3474. Lexicographically Smallest Generated String](3474.%20Lexicographically%20Smallest%20Generated%20String.py)
-36. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-37. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
-38. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
-39. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
-40. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-41. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-42. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+35. [3418. Maximum Amount of Money Robot Can Earn](3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.py)
+36. [3474. Lexicographically Smallest Generated String](3474.%20Lexicographically%20Smallest%20Generated%20String.py)
+37. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+38. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
+39. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
+40. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+41. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+42. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+43. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **42**
-- Python solutions: **41**
+- Total problems solved: **43**
+- Python solutions: **42**
 - C++ solutions: **1**
 
 ---
@@ -85,4 +86,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 1st, 2026.*
+*Last updated: April 2nd, 2026.*
