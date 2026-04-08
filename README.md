@@ -62,12 +62,13 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 45. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
 46. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 47. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
-48. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+48. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
+49. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **48**
-- Python solutions: **47**
+- Total problems solved: **49**
+- Python solutions: **48**
 - C++ solutions: **1**
 
 ---
@@ -91,4 +92,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 7th, 2026.*
+*Last updated: April 8th, 2026.*
