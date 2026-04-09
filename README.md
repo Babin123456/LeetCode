@@ -63,12 +63,13 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 46. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 47. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 48. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
-49. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+49. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
+50. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
 
-### 🧮 Summary
+### ðŸ§® Summary
 
-- Total problems solved: **49**
-- Python solutions: **48**
+- Total problems solved: **50**
+- Python solutions: **49**
 - C++ solutions: **1**
 
 ---
@@ -92,4 +93,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 8th, 2026.*
+*Last updated: April 9th, 2026.*
