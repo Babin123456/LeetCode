@@ -66,11 +66,12 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 49. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
 50. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
 51. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
+52. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
 
 ### ðŸ§® Summary
 
-- Total problems solved: **51**
-- Python solutions: **50**
+- Total problems solved: **52**
+- Python solutions: **51**
 - C++ solutions: **1**
 
 ---
@@ -94,4 +95,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 10th, 2026.*
+*Last updated: April 11th, 2026.*
