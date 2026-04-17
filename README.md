@@ -72,10 +72,11 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 55. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
 56. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
 57. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
+58. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **57**
+- Total problems solved: **58**
 - Python solutions: **56**
 - C++ solutions: **1**
 
