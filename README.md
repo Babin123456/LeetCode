@@ -73,11 +73,12 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 56. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
 57. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
 58. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
+59. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **58**
-- Python solutions: **56**
+- Total problems solved: **59**
+- Python solutions: **57**
 - C++ solutions: **1**
 
 ---
@@ -101,4 +102,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 17th, 2026.*
+*Last updated: April 18th, 2026.*
