@@ -48,41 +48,42 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 31. [2463. Minimum Total Distance Traveled](2463.%20Minimum%20Total%20Distance%20Traveled.py)
 32. [2515. Shortest Distance to Target String in a Circular Array](2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)
 33. [2528. Maximize the Minimum Powered City](2528.%20Maximize%20the%20Minimum%20Powered%20City.py)
-34. [2839. Check if Strings Can be Made Equal With Operations I](2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I.py)
-35. [2840. Check if Strings Can be Made Equal With Operations II](2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II.py)
-36. [2573. Find the String with LCP](2573.%20Find%20the%20String%20with%20LCP.py)
-37. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
-38. [2906. Construct Product Matrix](2906.%20Construct%20Product%20Matrix.py)
-39. [2946. Matrix Similarity After Cyclic Shifts](2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts.py)
-40. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
-41. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
-42. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
-43. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
-44. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
-45. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
-46. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
-47. [3418. Maximum Amount of Money Robot Can Earn](3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.py)
-48. [3474. Lexicographically Smallest Generated String](3474.%20Lexicographically%20Smallest%20Generated%20String.py)
-49. [3488. Closest Equal Element Queries](3488.%20Closest%20Equal%20Element%20Queries.py)
-50. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
-51. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
-52. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
-53. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
-54. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
-55. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-56. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
-57. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
-58. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
-59. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
-60. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
-61. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
-62. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
-63. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
+34. [2573. Find the String with LCP](2573.%20Find%20the%20String%20with%20LCP.py)
+35. [2615. Sum of Distances](2615.%20Sum%20of%20Distances.py)
+36. [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)
+37. [2839. Check if Strings Can be Made Equal With Operations I](2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I.py)
+38. [2840. Check if Strings Can be Made Equal With Operations II](2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II.py)
+39. [2906. Construct Product Matrix](2906.%20Construct%20Product%20Matrix.py)
+40. [2946. Matrix Similarity After Cyclic Shifts](2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts.py)
+41. [3070. Count Submatrices with Top-Left Element and Sum Less Than k](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py)
+42. [3129. Find All Possible Stable Binary Arrays I](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py)
+43. [3130. Find All Possible Stable Binary Arrays II](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py)
+44. [3212. Count Submatrices With Equal Frequency of X and Y](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py)
+45. [3228. Maximum Number of Operations to Move Ones to the End](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)
+46. [3296. Minimum Number of Seconds to Make Mountain Height Zero](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py)
+47. [3321. Find X-Sum of All K-Long Subarrays II](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py)
+48. [3418. Maximum Amount of Money Robot Can Earn](3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.py)
+49. [3474. Lexicographically Smallest Generated String](3474.%20Lexicographically%20Smallest%20Generated%20String.py)
+50. [3488. Closest Equal Element Queries](3488.%20Closest%20Equal%20Element%20Queries.py)
+51. [3542. Minimum Operations to Convert All Elements to Zero](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)
+52. [3546. Equal Sum Grid Partition I](3546.%20Equal%20Sum%20Grid%20Partition%20I.py)
+53. [3548. Equal Sum Grid Partition II](3548.%20Equal%20Sum%20Grid%20Partition%20II.py)
+54. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
+55. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
+56. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
+57. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+58. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
+59. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
+60. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+61. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
+62. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
+63. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
+64. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **63**
-- Python solutions: **61**
+- Total problems solved: **64**
+- Python solutions: **63**
 - C++ solutions: **1**
 
 ---
@@ -106,4 +107,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: April 22th, 2026.*
+*Last updated: April 23th, 2026.*
