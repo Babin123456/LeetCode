@@ -86,17 +86,18 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 69. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
 70. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
 71. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
-72. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
-73. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
-74. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
-75. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
-76. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
-77. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
+72. [3660. Jump Game IX](3660.%20Jump%20Game%20IX.py)
+73. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+74. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
+75. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
+76. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
+77. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
+78. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **77**
-- Python solutions: **76**
+- Total problems solved: **78**
+- Python solutions: **77**
 - C++ solutions: **1**
 
 ## 🛠️ Supported Languages
