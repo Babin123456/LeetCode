@@ -83,21 +83,22 @@ A curated repository of my LeetCode problem solutions, written primarily in **Py
 66. [3567. Minimum Absolute Difference in Sliding Submatrix](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py)
 67. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
 68. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
-69. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
-70. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
-71. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
-72. [3660. Jump Game IX](3660.%20Jump%20Game%20IX.py)
-73. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
-74. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
-75. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
-76. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
-77. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
-78. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
+69. [3629. Minimum Jumps to Reach End via Prime Teleportation](3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation.py)
+70. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+71. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
+72. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
+73. [3660. Jump Game IX](3660.%20Jump%20Game%20IX.py)
+74. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+75. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
+76. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
+77. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
+78. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
+79. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
 
 ### 🧮 Summary
 
-- Total problems solved: **78**
-- Python solutions: **77**
+- Total problems solved: **79**
+- Python solutions: **78**
 - C++ solutions: **1**
 
 ## 🛠️ Supported Languages
@@ -119,4 +120,4 @@ All code is provided **as‑is** for educational purposes.
 
 ---
 
-*Last updated: May 7th, 2026.*
+*Last updated: May 8th, 2026.*
