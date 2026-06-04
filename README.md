@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13.9-blue.svg)](https://www.python.org/) [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 
-A curated collection of LeetCode solutions for self-study, algorithm review, and reference. Each file is a standalone implementation organized by problem ID and language.
+A curated collection of LeetCode solutions for self-study, review, and reference. Each file is a standalone implementation named by problem ID and title for easy navigation.
 
 ---
 
@@ -13,7 +13,7 @@ A curated collection of LeetCode solutions for self-study, algorithm review, and
 
 ---
 
-## 📋 Problems Included
+## 📋 Problem Index
 
 1. [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.py)
 2. [48. Rotate Image](48.%20Rotate%20Image.py)
@@ -109,21 +109,24 @@ A curated collection of LeetCode solutions for self-study, algorithm review, and
 92. [3600. Maximize Spanning Tree Stability with Upgrades](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py)
 93. [3607. Power Grid Maintenance](3607.%20Power%20Grid%20Maintenance.py)
 94. [3629. Minimum Jumps to Reach End via Prime Teleportation](3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation.py)
-95. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
-96. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
-97. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
-98. [3660. Jump Game IX](3660.%20Jump%20Game%20IX.py)
-99. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
-100. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
-101. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
-102. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
-103. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
-104. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
+95. [3633. Earliest Finish Time for Land and Water Rides I](3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I.py)
+96. [3635. Earliest Finish Time for Land and Water Rides II](3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II.py)
+97. [3643. Flip Square Submatrix Vertically](3643.%20Flip%20Square%20Submatrix%20Vertically.py)
+98. [3653. XOR After Range Multiplication Queries I](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py)
+99. [3655. XOR After Range Multiplication Queries II](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py)
+100. [3660. Jump Game IX](3660.%20Jump%20Game%20IX.py)
+101. [3661. Maximum Walls Destroyed by Robots](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py)
+102. [3740. Minimum Distance Between Three Equal Elements I](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py)
+103. [3741. Minimum Distance Between Three Equal Elements II](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py)
+104. [3742. Maximum Path Score in a Grid](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py)
+105. [3751. Total Waviness of Numbers in Range I](3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I.py)
+106. [3761. Minimum Absolute Distance Between Mirror Pairs](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py)
+107. [3783. Mirror Distance of an Integer](3783.%20Mirror%20Distance%20of%20an%20Integer.py)
 
-### 🧮 Summary
+### 📊 Stats
 
-- Total problems solved: **104**
-- Python solutions: **102**
+- Total problems solved: **107**
+- Python solutions: **105**
 - C++ solutions: **2**
 
 ## 🛠️ Supported Languages
@@ -145,4 +148,4 @@ All code is provided **as-is** for educational purposes.
 
 ---
 
-*Last updated: June 1st, 2026.*
+*Last updated: June 4th, 2026.*
