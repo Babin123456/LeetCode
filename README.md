@@ -1,24 +1,69 @@
 # 🧠 LeetCode Solutions
 
-[![Python](https://img.shields.io/badge/Python-3.13.9-blue.svg)](https://www.python.org/) [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=%F0%9F%A7%A0%20LeetCode%20Solutions&fontSize=38&fontColor=ffffff&fontFamily=Inter&animation=twinkling" width="100%" alt="LeetCode Banner" />
+  
+  <br />
 
-A curated collection of LeetCode solutions for self-study, review, and algorithmic practice. Each file is a standalone implementation organized by problem ID and title for efficient navigation.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Curated+LeetCode+Solutions+in+Python+%26+C%2B%2B;167%2B+Problems+Solved+%26+Counting+%F0%9F%9A%80;Clean%2C+Efficient+%26+Optimized+Code;Continuous+Data+Structures+%26+Algorithms+Practice" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  [![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+  [![Usage](https://img.shields.io/badge/Usage-Educational--Purpose-blue.svg?style=for-the-badge)](#-educational-purpose)
+
+</div>
+
+<br />
+
+---
+
+## 📌 Overview
+
+Welcome to my personal **LeetCode Solutions Repository**! 🚀  
+This repository contains clean, efficient, and well-structured solutions to algorithmic problems solved on LeetCode. It serves as a continuous record of my problem-solving journey, data structure mastery, and code optimization practice.
 
 ---
 
 ## 📁 Repository Structure
 
-Solution files are named using the standardized format:
+Each solution file is named following the standardized format:
+```text
 NNNN. Problem Title.ext
+```
 
-- 🐍 **Python** (.py)
-- 💠 **C++** (.cpp / .c++)
+### 🗂️ Language Breakdown
+- 🐍 **Python** (`.py`)
+- 💠 **C++** (`.cpp` / `.c++`)
 
-**Example:** 1536. Minimum Swaps to Arrange a Binary Grid.c++
+**Example:** `1536. Minimum Swaps to Arrange a Binary Grid.c++`
+
+---
+
+## 📊 Statistics & Metrics
+
+<div align="center">
+
+| Metric | Count | Badge |
+| :--- | :---: | :---: |
+| 🧩 **Total Problems Solved** | **167** | ![Solved](https://img.shields.io/badge/Solved-167-brightgreen?style=flat-square&logo=leetcode) |
+| 🐍 **Python Solutions** | **165** | ![Python](https://img.shields.io/badge/Python-165-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 💠 **C++ Solutions** | **2** | ![C++](https://img.shields.io/badge/C%2B%2B-2-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+
+</div>
 
 ---
 
 ## 📋 Problem Index
+
+<details open>
+<summary><b>📜 Click to Expand / Collapse Full Problem Index (167 Problems)</b></summary>
+
+<br />
 
 1. [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.py)
 2. [48. Rotate Image](48.%20Rotate%20Image.py)
@@ -188,35 +233,35 @@ NNNN. Problem Title.ext
 166. [3838. Weighted Word Mapping](3838.%20Weighted%20Word%20Mapping.py)
 167. [3867. Sum of GCD of Formed Pairs](3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs.py)
 
----
-
-## 📊 Statistics
-
-| Metric | Count |
-| :--- | :--- |
-| 🧩 Total Problems Solved | **167** |
-| 🐍 Python Solutions | **165** |
-| 💠 C++ Solutions | **2** |
+</details>
 
 ---
 
-## 🛠️ Supported Languages
+## 🛠️ Tech Stack & Tools
 
-- **Python** 🐍
-- **C++** 💠
-
----
-
-## 🤝 Contributing
-
-This is a **personal collection** intended for self-study and reference. Feel free to fork, reference, or adapt these solutions for your own learning journey.
+- 🐍 **Python 3.13.9** – Dynamic programming, graph algorithms, hash maps, and math problems.
+- 💠 **C++ 17** – High-performance array manipulations and segment tree algorithms.
+- ⚡ **VS Code** – Primary IDE with integrated terminal and version control.
 
 ---
 
-## 📄 License
+## 🤝 Contributing & Usage
 
-All code is provided **as-is** for educational purposes.
+This is a **personal collection** intended for self-study, reference, and learning.  
+Feel free to star ⭐️, fork 🍴, or adapt these implementations for your own interview preparation and learning journey!
 
 ---
 
-**Last updated:** 3rd August, 2026
+## 🎓 Educational Purpose
+
+This repository and all code contained within are provided **as-is strictly for personal study, review, and educational purposes**.
+
+<br />
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  **Last updated:** 3rd August, 2026 🗓️
+
+</div>
