@@ -1,12 +1,12 @@
 # 🧠 LeetCode Solutions
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=%F0%9F%A7%A0%20LeetCode%20Solutions&fontSize=38&fontColor=ffffff&fontFamily=Inter&animation=twinkling" width="100%" alt="LeetCode Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,40:1e1b4b,100:311b92&height=220&section=header&text=%F0%9F%A7%A0%20LeetCode%20Solutions&fontSize=42&fontColor=ffffff&fontFamily=Poppins&animation=twinkling" width="100%" alt="LeetCode Banner" />
   
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Curated+LeetCode+Solutions+in+Python+%26+C%2B%2B;167%2B+Problems+Solved+%26+Counting+%F0%9F%9A%80;Clean%2C+Efficient+%26+Optimized+Code;Continuous+Data+Structures+%26+Algorithms+Practice" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Curated+LeetCode+Solutions+in+Python+%26+C%2B%2B;167%2B+Problems+Solved+%26+Counting+%F0%9F%9A%80;Clean%2C+Efficient+%26+Optimized+Code;Continuous+Data+Structures+%26+Algorithms+Practice" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -260,7 +260,7 @@ This repository and all code contained within are provided **as-is strictly for 
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,40:1e1b4b,100:311b92&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   **Last updated:** 3rd August, 2026 🗓️
 
