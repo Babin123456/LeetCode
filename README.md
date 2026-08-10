@@ -50,7 +50,7 @@ NNNN. Problem Title.ext
 
 | Metric | Count | Badge |
 | :--- | :---: | :---: |
-| 🧩 **Total Problems Solved** | **175** | ![Solved](https://img.shields.io/badge/Solved-175-brightgreen?style=flat-square&logo=leetcode) |
+| 🧩 **Total Problems Solved** | **174** | ![Solved](https://img.shields.io/badge/Solved-174-brightgreen?style=flat-square&logo=leetcode) |
 | 🐍 **Python Solutions** | **172** | ![Python](https://img.shields.io/badge/Python-172-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 💠 **C++ Solutions** | **2** | ![C++](https://img.shields.io/badge/C%2B%2B-2-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
