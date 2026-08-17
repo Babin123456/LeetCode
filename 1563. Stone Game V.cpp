@@ -1,47 +1,66 @@
-class Solution:
-    def stoneGameV(self, stoneValue: List[int]) -> int:
-        n = len(stoneValue)
-        prefix = [0] * (n + 1)
-        for i, val in enumerate(stoneValue):
-            prefix[i + 1] = prefix[i] + val
+#include <vector>
+#include <numeric>
+#include <algorithm>
 
-        dp = [[0] * n for _ in range(n)]
-        
-        max_left = [[0] * n for _ in range(n)]
-        max_right = [[0] * n for _ in range(n)]
+class Solution {
+public:
+    int stoneGameV(std::vector<int>& stoneValue) {
+        int n = stoneValue.size();
+        if (n <= 1) return 0;
 
-        for i in range(n):
-            max_left[i][i] = stoneValue[i]
-            max_right[i][i] = stoneValue[i]
+        std::vector<int> pref(n + 1, 0);
+        for (int i = 0; i < n; ++i) {
+            pref[i + 1] = pref[i] + stoneValue[i];
+        }
 
-        for length in range(2, n + 1):
-            k = 0
-            for i in range(n - length + 1):
-                j = i + length - 1
-                total = prefix[j + 1] - prefix[i]
+        auto get_sum = [&](int i, int j) {
+            return pref[j + 1] - pref[i];
+        };
 
-                if i == 0 or k < i:
-                    k = i
-                while k < j and (prefix[k + 1] - prefix[i]) * 2 <= total:
-                    k += 1
-                
-                mid = k - 1
-                res = 0
-                
-                if mid >= i:
-                    res = max(res, max_left[i][mid])
-                
-                if mid >= i and (prefix[mid + 1] - prefix[i]) * 2 == total:
-                    res = max(res, max_right[mid + 1][j])
-                
-                right_start = mid + 1
-                if (prefix[mid + 1] - prefix[i]) * 2 == total:
-                    right_start += 1
-                if right_start <= j:
-                    res = max(res, max_right[right_start][j])
+        // dp[i][j]: max score for subarray stoneValue[i..j]
+        std::vector<std::vector<int>> dp(n, std::vector<int>(n, 0));
+        // maxL[i][j] = max_{i <= k <= j} (dp[i][k] + sum(i, k))
+        std::vector<std::vector<int>> maxL(n, std::vector<int>(n, 0));
+        // maxR[i][j] = max_{i <= k <= j} (dp[k][j] + sum(k, j))
+        std::vector<std::vector<int>> maxR(n, std::vector<int>(n, 0));
 
-                dp[i][j] = res
-                max_left[i][j] = max(max_left[i][j - 1], res + total)
-                max_right[i][j] = max(max_right[i + 1][j], res + total)
+        for (int i = 0; i < n; ++i) {
+            maxL[i][i] = stoneValue[i];
+            maxR[i][i] = stoneValue[i];
+        }
 
-        return dp[0][n - 1]
+        for (int len = 2; len <= n; ++len) {
+            int mid = 0;
+            for (int i = 0; i <= n - len; ++i) {
+                int j = i + len - 1;
+                mid = std::max(mid, i);
+
+                // Advance mid to find the split point where left_sum <= right_sum
+                while (mid < j && get_sum(i, mid) * 2 <= get_sum(i, j)) {
+                    ++mid;
+                }
+
+                int k = mid - 1;
+                // If left sum == right sum
+                if (k >= i && get_sum(i, k) * 2 == get_sum(i, j)) {
+                    dp[i][j] = std::max(maxL[i][k], maxR[k + 1][j]);
+                } else {
+                    int best = 0;
+                    if (k >= i) {
+                        best = std::max(best, maxL[i][k]);
+                    }
+                    if (k + 1 < j) {
+                        best = std::max(best, maxR[k + 2][j]);
+                    }
+                    dp[i][j] = best;
+                }
+
+                int total = get_sum(i, j);
+                maxL[i][j] = std::max(maxL[i][j - 1], dp[i][j] + total);
+                maxR[i][j] = std::max(maxR[i + 1][j], dp[i][j] + total);
+            }
+        }
+
+        return dp[0][n - 1];
+    }
+};
