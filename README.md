@@ -19,12 +19,12 @@
 [![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Repo Status](https://img.shields.io/badge/Status-Active_Daily_Practice-00C853?style=for-the-badge&logo=githubactions&logoColor=white)](#overview)
-[![License](https://img.shields.io/badge/Usage-Educational-8A2BE2?style=for-the-badge&logo=open-source-initiative&logoColor=white)](#educational-purpose)
+[![License: MIT](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 
 <br /><br />
 
 <!-- QUICK NAVIGATION -->
-[📌 Overview](#overview) &nbsp;•&nbsp; [📊 Statistics](#statistics) &nbsp;•&nbsp; [🎯 Key Highlights](#highlights) &nbsp;•&nbsp; [📋 Problem Index](#problem-index) &nbsp;•&nbsp; [🛠️ Tech Stack](#tech-stack)
+[📌 Overview](#overview) &nbsp;•&nbsp; [📊 Statistics](#statistics) &nbsp;•&nbsp; [🎯 Key Highlights](#highlights) &nbsp;•&nbsp; [📋 Problem Index](#problem-index) &nbsp;•&nbsp; [🛠️ Tech Stack](#tech-stack) &nbsp;•&nbsp; [📜 License](#license)
 
 </div>
 
@@ -361,11 +361,14 @@ def solve_challenge():
 
 ---
 
+<a id="license"></a>
 <a id="educational-purpose"></a>
 
-## 🎓 Educational Purpose
+## 🎓 Educational Purpose & License
 
 This repository and all code contained within are maintained **strictly for personal study, interview preparation, and educational exploration**. Feel free to star ⭐ the repo or refer to solutions to boost your own learning curve!
+
+Distributed under the **[MIT License](LICENSE)**. See the [LICENSE](LICENSE) file for open-source terms, rights, and permissions.
 
 <br />
 
