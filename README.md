@@ -368,7 +368,7 @@ def solve_challenge():
 
 This repository and all code contained within are maintained **strictly for personal study, interview preparation, and educational exploration**. Feel free to star ⭐ the repo or refer to solutions to boost your own learning curve!
 
-Distributed under the **[MIT License](LICENSE)**. See the [LICENSE](LICENSE) file for open-source terms, rights, and permissions.
+Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for open-source terms, rights, and permissions.
 
 <br />
 
