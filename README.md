@@ -9,13 +9,13 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Babin123456/LeetCode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=232%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=233%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
 <!-- SHIELD BADGES -->
-[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-232_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-233_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Repo Status](https://img.shields.io/badge/Status-Active_Daily_Practice-00C853?style=for-the-badge&logo=githubactions&logoColor=white)](#overview)
@@ -46,7 +46,7 @@ vault_profile = {
     "languages"   : ["Python 3.13.9", "C++17"],
     "standards"   : ["Optimal Time & Space Complexity", "PEP8 Compliant", "Modular"],
     "core_domains": ["Dynamic Programming", "Graph Theory", "Trees", "Game Theory", "Data Structures"],
-    "status"      : "232+ Problems Solved & Actively Growing 🚀"
+    "status"      : "233+ Problems Solved & Actively Growing 🚀"
 }
 
 def solve_challenge():
@@ -69,8 +69,8 @@ def solve_challenge():
 
 | Metric | Details | Badge |
 | :--- | :---: | :---: |
-| 🧩 **Total Solutions** | **232 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-232-00E676?style=flat-square&logo=leetcode&logoColor=white) |
-| 🐍 **Python Solutions** | **229 Files** | ![Python](https://img.shields.io/badge/Python-229-38BDF8?style=flat-square&logo=python&logoColor=white) |
+| 🧩 **Total Solutions** | **233 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-233-00E676?style=flat-square&logo=leetcode&logoColor=white) |
+| 🐍 **Python Solutions** | **230 Files** | ![Python](https://img.shields.io/badge/Python-230-38BDF8?style=flat-square&logo=python&logoColor=white) |
 | 💠 **C++ Solutions** | **3 Files** | ![C++](https://img.shields.io/badge/C%2B%2B-3-A78BFA?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | 📈 **Consistency** | **Active & Growing** | ![Streak](https://img.shields.io/badge/Practice-Daily-FF6D00?style=flat-square&logo=target&logoColor=white) |
 
@@ -112,7 +112,7 @@ def solve_challenge():
 ## 📋 Problem Index
 
 <details open>
-<summary><b>📜 Click to Collapse / Expand Full Problem Archive (232 Solved Problems)</b></summary>
+<summary><b>📜 Click to Collapse / Expand Full Problem Archive (233 Solved Problems)</b></summary>
 
 <br />
 
@@ -242,114 +242,115 @@ def solve_challenge():
 | 122 | **2685. Count the Number of Complete Components** | [2685. Count the Number of Complete Components.py](2685.%20Count%20the%20Number%20of%20Complete%20Components.py) | `🐍 Python` |
 | 123 | **2751. Robot Collisions** | [2751. Robot Collisions.py](2751.%20Robot%20Collisions.py) | `🐍 Python` |
 | 124 | **2770. Maximum Number of Jumps to Reach the Last Index** | [2770. Maximum Number of Jumps to Reach the Last Index.py](2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index.py) | `🐍 Python` |
-| 125 | **2784. Check if Array is Good** | [2784. Check if Array is Good.py](2784.%20Check%20if%20Array%20is%20Good.py) | `🐍 Python` |
-| 126 | **2812. Find the Safest Path in a Grid** | [2812. Find the Safest Path in a Grid.py](2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid.py) | `🐍 Python` |
-| 127 | **2833. Furthest Point From Origin** | [2833. Furthest Point From Origin.py](2833.%20Furthest%20Point%20From%20Origin.py) | `🐍 Python` |
-| 128 | **2839. Check if Strings Can be Made Equal With Operations I** | [2839. Check if Strings Can be Made Equal With Operations I.py](2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I.py) | `🐍 Python` |
-| 129 | **2840. Check if Strings Can be Made Equal With Operations II** | [2840. Check if Strings Can be Made Equal With Operations II.py](2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II.py) | `🐍 Python` |
-| 130 | **2904. Shortest and Lexicographically Smallest Beautiful String** | [2904. Shortest and Lexicographically Smallest Beautiful String.py](2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String.py) | `🐍 Python` |
-| 131 | **2906. Construct Product Matrix** | [2906. Construct Product Matrix.py](2906.%20Construct%20Product%20Matrix.py) | `🐍 Python` |
-| 132 | **2946. Matrix Similarity After Cyclic Shifts** | [2946. Matrix Similarity After Cyclic Shifts.py](2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts.py) | `🐍 Python` |
-| 133 | **2948. Make Lexicographically Smallest Array by Swapping Elements** | [2948. Make Lexicographically Smallest Array by Swapping Elements.py](2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py) | `🐍 Python` |
-| 134 | **2958. Length of Longest Subarray With at Most K Frequency** | [2958. Length of Longest Subarray With at Most K Frequency.py](2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py) | `🐍 Python` |
-| 135 | **2996. Smallest Missing Integer Greater Than Sequential Prefix Sum** | [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum.py](2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum.py) | `🐍 Python` |
-| 136 | **3014. Minimum Number of Pushes to Type Word I** | [3014. Minimum Number of Pushes to Type Word I.py](3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I.py) | `🐍 Python` |
-| 137 | **3016. Minimum Number of Pushes to Type Word II** | [3016. Minimum Number of Pushes to Type Word II.py](3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py) | `🐍 Python` |
-| 138 | **3020. Find the Maximum Number of Elements in Subset** | [3020. Find the Maximum Number of Elements in Subset.py](3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset.py) | `🐍 Python` |
-| 139 | **3043. Find the Length of the Longest Common Prefix** | [3043. Find the Length of the Longest Common Prefix.py](3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py) | `🐍 Python` |
-| 140 | **3069. Distribute Elements Into Two Arrays I** | [3069. Distribute Elements Into Two Arrays I.py](3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I.py) | `🐍 Python` |
-| 141 | **3070. Count Submatrices with Top-Left Element and Sum Less Than k** | [3070. Count Submatrices with Top-Left Element and Sum Less Than k.py](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py) | `🐍 Python` |
-| 142 | **3090. Maximum Length Substring With Two Occurrences** | [3090. Maximum Length Substring With Two Occurrences.py](3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences.py) | `🐍 Python` |
-| 143 | **3093. Longest Common Suffix Queries** | [3093. Longest Common Suffix Queries.py](3093.%20Longest%20Common%20Suffix%20Queries.py) | `🐍 Python` |
-| 144 | **3116. Kth Smallest Amount With Single Denomination Combination** | [3116. Kth Smallest Amount With Single Denomination Combination.PY](3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination.PY) | `🐍 Python` |
-| 145 | **3120. Count the Number of Special Characters I** | [3120. Count the Number of Special Characters I.py](3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py) | `🐍 Python` |
-| 146 | **3121. Count the Number of Special Characters II** | [3121. Count the Number of Special Characters II.py](3121.%20Count%20the%20Number%20of%20Special%20Characters%20II.py) | `🐍 Python` |
-| 147 | **3129. Find All Possible Stable Binary Arrays I** | [3129. Find All Possible Stable Binary Arrays I.py](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py) | `🐍 Python` |
-| 148 | **3130. Find All Possible Stable Binary Arrays II** | [3130. Find All Possible Stable Binary Arrays II.py](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py) | `🐍 Python` |
-| 149 | **3161. Block Placement Queries** | [3161. Block Placement Queries.cpp](3161.%20Block%20Placement%20Queries.cpp) | `💠 C++` |
-| 150 | **3212. Count Submatrices With Equal Frequency of X and Y** | [3212. Count Submatrices With Equal Frequency of X and Y.py](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py) | `🐍 Python` |
-| 151 | **3225. Maximum Score From Grid Operations** | [3225. Maximum Score From Grid Operations.py](3225.%20Maximum%20Score%20From%20Grid%20Operations.py) | `🐍 Python` |
-| 152 | **3228. Maximum Number of Operations to Move Ones to the End** | [3228. Maximum Number of Operations to Move Ones to the End.py](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py) | `🐍 Python` |
-| 153 | **3286. Find a Safe Walk Through a Grid** | [3286. Find a Safe Walk Through a Grid.py](3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid.py) | `🐍 Python` |
-| 154 | **3296. Minimum Number of Seconds to Make Mountain Height Zero** | [3296. Minimum Number of Seconds to Make Mountain Height Zero.py](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py) | `🐍 Python` |
-| 155 | **3300. Minimum Element After Replacement With Digit Sum** | [3300. Minimum Element After Replacement With Digit Sum.py](3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum.py) | `🐍 Python` |
-| 156 | **3302. Find the Lexicographically Smallest Valid Sequence** | [3302. Find the Lexicographically Smallest Valid Sequence.py](3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence.py) | `🐍 Python` |
-| 157 | **3310. Remove Methods From Project** | [3310. Remove Methods From Project.py](3310.%20Remove%20Methods%20From%20Project.py) | `🐍 Python` |
-| 158 | **3312. Sorted GCD Pair Queries** | [3312. Sorted GCD Pair Queries.py](3312.%20Sorted%20GCD%20Pair%20Queries.py) | `🐍 Python` |
-| 159 | **3321. Find X-Sum of All K-Long  Subarrays II** | [3321. Find X-Sum of All K-Long  Subarrays II.py](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py) | `🐍 Python` |
-| 160 | **3336. Find the Number of Subsequences With Equal GCD** | [3336. Find the Number of Subsequences With Equal GCD.py](3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD.py) | `🐍 Python` |
-| 161 | **3345. Smallest Divisible Digit Product I** | [3345. Smallest Divisible Digit Product I.py](3345.%20Smallest%20Divisible%20Digit%20Product%20I.py) | `🐍 Python` |
-| 162 | **3348. Smallest Divisible Digit Product II** | [3348. Smallest Divisible Digit Product II.py](3348.%20Smallest%20Divisible%20Digit%20Product%20II.py) | `🐍 Python` |
-| 163 | **3414. Maximum Score of Non-overlapping Intervals** | [3414. Maximum Score of Non-overlapping Intervals.py](3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals.py) | `🐍 Python` |
-| 164 | **3418. Maximum Amount of Money Robot Can Earn** | [3418. Maximum Amount of Money Robot Can Earn.py](3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.py) | `🐍 Python` |
-| 165 | **3464. Maximize the Distance Between Points on a Square** | [3464. Maximize the Distance Between Points on a Square.py](3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square.py) | `🐍 Python` |
-| 166 | **3471. Find the Largest Almost Missing Integer** | [3471. Find the Largest Almost Missing Integer.py](3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer.py) | `🐍 Python` |
-| 167 | **3474. Lexicographically Smallest Generated String** | [3474. Lexicographically Smallest Generated String.py](3474.%20Lexicographically%20Smallest%20Generated%20String.py) | `🐍 Python` |
-| 168 | **3483. Unique 3-Digit Even Numbers** | [3483. Unique 3-Digit Even Numbers.py](3483.%20Unique%203-Digit%20Even%20Numbers.py) | `🐍 Python` |
-| 169 | **3488. Closest Equal Element Queries** | [3488. Closest Equal Element Queries.py](3488.%20Closest%20Equal%20Element%20Queries.py) | `🐍 Python` |
-| 170 | **3498. Reverse Degree of a String** | [3498. Reverse Degree of a String.py](3498.%20Reverse%20Degree%20of%20a%20String.py) | `🐍 Python` |
-| 171 | **3499. Maximize Active Section with Trade I** | [3499. Maximize Active Section with Trade I.py](3499.%20Maximize%20Active%20Section%20with%20Trade%20I.py) | `🐍 Python` |
-| 172 | **3501. Maximize Active Section with Trade II** | [3501. Maximize Active Section with Trade II.py](3501.%20Maximize%20Active%20Section%20with%20Trade%20II.py) | `🐍 Python` |
-| 173 | **3513. Number of Unique XOR Triplets I** | [3513. Number of Unique XOR Triplets I.py](3513.%20Number%20of%20Unique%20XOR%20Triplets%20I.py) | `🐍 Python` |
-| 174 | **3514. Number of Unique XOR Triplets II** | [3514. Number of Unique XOR Triplets II.py](3514.%20Number%20of%20Unique%20XOR%20Triplets%20II.py) | `🐍 Python` |
-| 175 | **3517. Smallest Palindromic Rearrangement I** | [3517. Smallest Palindromic Rearrangement I.py](3517.%20Smallest%20Palindromic%20Rearrangement%20I.py) | `🐍 Python` |
-| 176 | **3518. Smallest Palindromic Rearrangement II** | [3518. Smallest Palindromic Rearrangement II.py](3518.%20Smallest%20Palindromic%20Rearrangement%20II.py) | `🐍 Python` |
-| 177 | **3524. Find X Value of Array I** | [3524. Find X Value of Array I.py](3524.%20Find%20X%20Value%20of%20Array%20I.py) | `🐍 Python` |
-| 178 | **3525. Find X Value of Array II** | [3525. Find X Value of Array II.py](3525.%20Find%20X%20Value%20of%20Array%20II.py) | `🐍 Python` |
-| 179 | **3532. Path Existence Queries in a Graph I** | [3532. Path Existence Queries in a Graph I.py](3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I.py) | `🐍 Python` |
-| 180 | **3534. Path Existence Queries in a Graph II** | [3534. Path Existence Queries in a Graph II.py](3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II.py) | `🐍 Python` |
-| 181 | **3536. Maximum Product of Two Digits** | [3536. Maximum Product of Two Digits.py](3536.%20Maximum%20Product%20of%20Two%20Digits.py) | `🐍 Python` |
-| 182 | **3542. Minimum Operations to Convert All Elements to Zero** | [3542. Minimum Operations to Convert All Elements to Zero.py](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py) | `🐍 Python` |
-| 183 | **3546. Equal Sum Grid Partition I** | [3546. Equal Sum Grid Partition I.py](3546.%20Equal%20Sum%20Grid%20Partition%20I.py) | `🐍 Python` |
-| 184 | **3548. Equal Sum Grid Partition II** | [3548. Equal Sum Grid Partition II.py](3548.%20Equal%20Sum%20Grid%20Partition%20II.py) | `🐍 Python` |
-| 185 | **3550. Smallest Index With Digit Sum Equal to Index** | [3550. Smallest Index With Digit Sum Equal to Index.py](3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index.py) | `🐍 Python` |
-| 186 | **3558. Number of Ways to Assign Edge Weights I** | [3558. Number of Ways to Assign Edge Weights I.py](3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) | `🐍 Python` |
-| 187 | **3559. Number of Ways to Assign Edge Weights II** | [3559. Number of Ways to Assign Edge Weights II.py](3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II.py) | `🐍 Python` |
-| 188 | **3567. Minimum Absolute Difference in Sliding Submatrix** | [3567. Minimum Absolute Difference in Sliding Submatrix.py](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py) | `🐍 Python` |
-| 189 | **3568. Minimum Moves to Clean the Classroom** | [3568. Minimum Moves to Clean the Classroom.py](3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom.py) | `🐍 Python` |
-| 190 | **3600. Maximize Spanning Tree Stability with Upgrades** | [3600. Maximize Spanning Tree Stability with Upgrades.py](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py) | `🐍 Python` |
-| 191 | **3607. Power Grid Maintenance** | [3607. Power Grid Maintenance.py](3607.%20Power%20Grid%20Maintenance.py) | `🐍 Python` |
-| 192 | **3612. Process String with Special Operations I** | [3612. Process String with Special Operations I.py](3612.%20Process%20String%20with%20Special%20Operations%20I.py) | `🐍 Python` |
-| 193 | **3614. Process String with Special Operations II** | [3614. Process String with Special Operations II.py](3614.%20Process%20String%20with%20Special%20Operations%20II.py) | `🐍 Python` |
-| 194 | **3620. Network Recovery Pathways** | [3620. Network Recovery Pathways.py](3620.%20Network%20Recovery%20Pathways.py) | `🐍 Python` |
-| 195 | **3622. Check Divisibility by Digit Sum and Product** | [3622. Check Divisibility by Digit Sum and Product.py](3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product.py) | `🐍 Python` |
-| 196 | **3629. Minimum Jumps to Reach End via Prime Teleportation** | [3629. Minimum Jumps to Reach End via Prime Teleportation.py](3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation.py) | `🐍 Python` |
-| 197 | **3633. Earliest Finish Time for Land and Water Rides I** | [3633. Earliest Finish Time for Land and Water Rides I.py](3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I.py) | `🐍 Python` |
-| 198 | **3635. Earliest Finish Time for Land and Water Rides II** | [3635. Earliest Finish Time for Land and Water Rides II.py](3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II.py) | `🐍 Python` |
-| 199 | **3643. Flip Square Submatrix Vertically** | [3643. Flip Square Submatrix Vertically.py](3643.%20Flip%20Square%20Submatrix%20Vertically.py) | `🐍 Python` |
-| 200 | **3653. XOR After Range Multiplication Queries I** | [3653. XOR After Range Multiplication Queries I.py](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py) | `🐍 Python` |
-| 201 | **3655. XOR After Range Multiplication Queries II** | [3655. XOR After Range Multiplication Queries II.py](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py) | `🐍 Python` |
-| 202 | **3658. GCD of Odd and Even Sums** | [3658. GCD of Odd and Even Sums.py](3658.%20GCD%20of%20Odd%20and%20Even%20Sums.py) | `🐍 Python` |
-| 203 | **3660. Jump Game IX** | [3660. Jump Game IX.py](3660.%20Jump%20Game%20IX.py) | `🐍 Python` |
-| 204 | **3661. Maximum Walls Destroyed by Robots** | [3661. Maximum Walls Destroyed by Robots.py](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py) | `🐍 Python` |
-| 205 | **3689. Maximum Total Subarray Value I** | [3689. Maximum Total Subarray Value I.py](3689.%20Maximum%20Total%20Subarray%20Value%20I.py) | `🐍 Python` |
-| 206 | **3691. Maximum Total Subarray Value II** | [3691. Maximum Total Subarray Value II.py](3691.%20Maximum%20Total%20Subarray%20Value%20II.py) | `🐍 Python` |
-| 207 | **3699. Number of ZigZag Arrays I** | [3699. Number of ZigZag Arrays I.py](3699.%20Number%20of%20ZigZag%20Arrays%20I.py) | `🐍 Python` |
-| 208 | **3700. Number of ZigZag Arrays II** | [3700. Number of ZigZag Arrays II.py](3700.%20Number%20of%20ZigZag%20Arrays%20II.py) | `🐍 Python` |
-| 209 | **3702. Longest Subsequence With Non-Zero Bitwise XOR** | [3702. Longest Subsequence With Non-Zero Bitwise XOR.py](3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR.py) | `🐍 Python` |
-| 210 | **3718. Smallest Missing Multiple of K** | [3718. Smallest Missing Multiple of K.py](3718.%20Smallest%20Missing%20Multiple%20of%20K.py) | `🐍 Python` |
-| 211 | **3720. Lexicographically Smallest Permutation Greater Than Target** | [3720. Lexicographically Smallest Permutation Greater Than Target.py](3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target.py) | `🐍 Python` |
-| 212 | **3731. Find Missing Elements** | [3731. Find Missing Elements.py](3731.%20Find%20Missing%20Elements.py) | `🐍 Python` |
-| 213 | **3734. Lexicographically Smallest Palindromic Permutation Greater Than Target** | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target.py](3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target.py) | `🐍 Python` |
-| 214 | **3737. Count Subarrays With Majority Element I** | [3737. Count Subarrays With Majority Element I.py](3737.%20Count%20Subarrays%20With%20Majority%20Element%20I.py) | `🐍 Python` |
-| 215 | **3739. Count Subarrays With Majority Element II** | [3739. Count Subarrays With Majority Element II.py](3739.%20Count%20Subarrays%20With%20Majority%20Element%20II.py) | `🐍 Python` |
-| 216 | **3740. Minimum Distance Between Three Equal Elements I** | [3740. Minimum Distance Between Three Equal Elements I.py](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py) | `🐍 Python` |
-| 217 | **3741. Minimum Distance Between Three Equal Elements II** | [3741. Minimum Distance Between Three Equal Elements II.py](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py) | `🐍 Python` |
-| 218 | **3742. Maximum Path Score in a Grid** | [3742. Maximum Path Score in a Grid.py](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py) | `🐍 Python` |
-| 219 | **3751. Total Waviness of Numbers in Range I** | [3751. Total Waviness of Numbers in Range I.py](3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I.py) | `🐍 Python` |
-| 220 | **3753. Total Waviness of Numbers in Range II** | [3753. Total Waviness of Numbers in Range II.py](3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II.py) | `🐍 Python` |
-| 221 | **3754. Concatenate Non-Zero Digits and Multiply by Sum I** | [3754. Concatenate Non-Zero Digits and Multiply by Sum I.py](3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I.py) | `🐍 Python` |
-| 222 | **3756. Concatenate Non-Zero Digits and Multiply by Sum II** | [3756. Concatenate Non-Zero Digits and Multiply by Sum II.py](3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II.py) | `🐍 Python` |
-| 223 | **3761. Minimum Absolute Distance Between Mirror Pairs** | [3761. Minimum Absolute Distance Between Mirror Pairs.py](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py) | `🐍 Python` |
-| 224 | **3783. Mirror Distance of an Integer** | [3783. Mirror Distance of an Integer.py](3783.%20Mirror%20Distance%20of%20an%20Integer.py) | `🐍 Python` |
-| 225 | **3838. Weighted Word Mapping** | [3838. Weighted Word Mapping.py](3838.%20Weighted%20Word%20Mapping.py) | `🐍 Python` |
-| 226 | **3867. Sum of GCD of Formed Pairs** | [3867. Sum of GCD of Formed Pairs.py](3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs.py) | `🐍 Python` |
-| 227 | **3870. Count Commas in Range** | [3870. Count Commas in Range.py](3870.%20Count%20Commas%20in%20Range.py) | `🐍 Python` |
-| 228 | **3871. Count Commas in Range II** | [3871. Count Commas in Range II.py](3871.%20Count%20Commas%20in%20Range%20II.py) | `🐍 Python` |
-| 229 | **3875. Construct Uniform Parity Array I** | [3875. Construct Uniform Parity Array I.py](3875.%20Construct%20Uniform%20Parity%20Array%20I.py) | `🐍 Python` |
-| 230 | **3876. Construct Uniform Parity Array II** | [3876. Construct Uniform Parity Array II.py](3876.%20Construct%20Uniform%20Parity%20Array%20II.py) | `🐍 Python` |
-| 231 | **3903. Smallest Stable Index I** | [3903. Smallest Stable Index I.py](3903.%20Smallest%20Stable%20Index%20I.py) | `🐍 Python` |
-| 232 | **3904. Smallest Stable Index II** | [3904. Smallest Stable Index II.py](3904.%20Smallest%20Stable%20Index%20II.py) | `🐍 Python` |
+| 125 | **2778. Sum of Squares of Special Elements** | [2778. Sum of Squares of Special Elements .py](2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20.py) | `🐍 Python` |
+| 126 | **2784. Check if Array is Good** | [2784. Check if Array is Good.py](2784.%20Check%20if%20Array%20is%20Good.py) | `🐍 Python` |
+| 127 | **2812. Find the Safest Path in a Grid** | [2812. Find the Safest Path in a Grid.py](2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid.py) | `🐍 Python` |
+| 128 | **2833. Furthest Point From Origin** | [2833. Furthest Point From Origin.py](2833.%20Furthest%20Point%20From%20Origin.py) | `🐍 Python` |
+| 129 | **2839. Check if Strings Can be Made Equal With Operations I** | [2839. Check if Strings Can be Made Equal With Operations I.py](2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I.py) | `🐍 Python` |
+| 130 | **2840. Check if Strings Can be Made Equal With Operations II** | [2840. Check if Strings Can be Made Equal With Operations II.py](2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II.py) | `🐍 Python` |
+| 131 | **2904. Shortest and Lexicographically Smallest Beautiful String** | [2904. Shortest and Lexicographically Smallest Beautiful String.py](2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String.py) | `🐍 Python` |
+| 132 | **2906. Construct Product Matrix** | [2906. Construct Product Matrix.py](2906.%20Construct%20Product%20Matrix.py) | `🐍 Python` |
+| 133 | **2946. Matrix Similarity After Cyclic Shifts** | [2946. Matrix Similarity After Cyclic Shifts.py](2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts.py) | `🐍 Python` |
+| 134 | **2948. Make Lexicographically Smallest Array by Swapping Elements** | [2948. Make Lexicographically Smallest Array by Swapping Elements.py](2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py) | `🐍 Python` |
+| 135 | **2958. Length of Longest Subarray With at Most K Frequency** | [2958. Length of Longest Subarray With at Most K Frequency.py](2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py) | `🐍 Python` |
+| 136 | **2996. Smallest Missing Integer Greater Than Sequential Prefix Sum** | [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum.py](2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum.py) | `🐍 Python` |
+| 137 | **3014. Minimum Number of Pushes to Type Word I** | [3014. Minimum Number of Pushes to Type Word I.py](3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I.py) | `🐍 Python` |
+| 138 | **3016. Minimum Number of Pushes to Type Word II** | [3016. Minimum Number of Pushes to Type Word II.py](3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py) | `🐍 Python` |
+| 139 | **3020. Find the Maximum Number of Elements in Subset** | [3020. Find the Maximum Number of Elements in Subset.py](3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset.py) | `🐍 Python` |
+| 140 | **3043. Find the Length of the Longest Common Prefix** | [3043. Find the Length of the Longest Common Prefix.py](3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py) | `🐍 Python` |
+| 141 | **3069. Distribute Elements Into Two Arrays I** | [3069. Distribute Elements Into Two Arrays I.py](3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I.py) | `🐍 Python` |
+| 142 | **3070. Count Submatrices with Top-Left Element and Sum Less Than k** | [3070. Count Submatrices with Top-Left Element and Sum Less Than k.py](3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.py) | `🐍 Python` |
+| 143 | **3090. Maximum Length Substring With Two Occurrences** | [3090. Maximum Length Substring With Two Occurrences.py](3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences.py) | `🐍 Python` |
+| 144 | **3093. Longest Common Suffix Queries** | [3093. Longest Common Suffix Queries.py](3093.%20Longest%20Common%20Suffix%20Queries.py) | `🐍 Python` |
+| 145 | **3116. Kth Smallest Amount With Single Denomination Combination** | [3116. Kth Smallest Amount With Single Denomination Combination.PY](3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination.PY) | `🐍 Python` |
+| 146 | **3120. Count the Number of Special Characters I** | [3120. Count the Number of Special Characters I.py](3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py) | `🐍 Python` |
+| 147 | **3121. Count the Number of Special Characters II** | [3121. Count the Number of Special Characters II.py](3121.%20Count%20the%20Number%20of%20Special%20Characters%20II.py) | `🐍 Python` |
+| 148 | **3129. Find All Possible Stable Binary Arrays I** | [3129. Find All Possible Stable Binary Arrays I.py](3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.py) | `🐍 Python` |
+| 149 | **3130. Find All Possible Stable Binary Arrays II** | [3130. Find All Possible Stable Binary Arrays II.py](3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.py) | `🐍 Python` |
+| 150 | **3161. Block Placement Queries** | [3161. Block Placement Queries.cpp](3161.%20Block%20Placement%20Queries.cpp) | `💠 C++` |
+| 151 | **3212. Count Submatrices With Equal Frequency of X and Y** | [3212. Count Submatrices With Equal Frequency of X and Y.py](3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.py) | `🐍 Python` |
+| 152 | **3225. Maximum Score From Grid Operations** | [3225. Maximum Score From Grid Operations.py](3225.%20Maximum%20Score%20From%20Grid%20Operations.py) | `🐍 Python` |
+| 153 | **3228. Maximum Number of Operations to Move Ones to the End** | [3228. Maximum Number of Operations to Move Ones to the End.py](3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py) | `🐍 Python` |
+| 154 | **3286. Find a Safe Walk Through a Grid** | [3286. Find a Safe Walk Through a Grid.py](3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid.py) | `🐍 Python` |
+| 155 | **3296. Minimum Number of Seconds to Make Mountain Height Zero** | [3296. Minimum Number of Seconds to Make Mountain Height Zero.py](3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero.py) | `🐍 Python` |
+| 156 | **3300. Minimum Element After Replacement With Digit Sum** | [3300. Minimum Element After Replacement With Digit Sum.py](3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum.py) | `🐍 Python` |
+| 157 | **3302. Find the Lexicographically Smallest Valid Sequence** | [3302. Find the Lexicographically Smallest Valid Sequence.py](3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence.py) | `🐍 Python` |
+| 158 | **3310. Remove Methods From Project** | [3310. Remove Methods From Project.py](3310.%20Remove%20Methods%20From%20Project.py) | `🐍 Python` |
+| 159 | **3312. Sorted GCD Pair Queries** | [3312. Sorted GCD Pair Queries.py](3312.%20Sorted%20GCD%20Pair%20Queries.py) | `🐍 Python` |
+| 160 | **3321. Find X-Sum of All K-Long  Subarrays II** | [3321. Find X-Sum of All K-Long  Subarrays II.py](3321.%20Find%20X-Sum%20of%20All%20K-Long%20%20Subarrays%20II.py) | `🐍 Python` |
+| 161 | **3336. Find the Number of Subsequences With Equal GCD** | [3336. Find the Number of Subsequences With Equal GCD.py](3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD.py) | `🐍 Python` |
+| 162 | **3345. Smallest Divisible Digit Product I** | [3345. Smallest Divisible Digit Product I.py](3345.%20Smallest%20Divisible%20Digit%20Product%20I.py) | `🐍 Python` |
+| 163 | **3348. Smallest Divisible Digit Product II** | [3348. Smallest Divisible Digit Product II.py](3348.%20Smallest%20Divisible%20Digit%20Product%20II.py) | `🐍 Python` |
+| 164 | **3414. Maximum Score of Non-overlapping Intervals** | [3414. Maximum Score of Non-overlapping Intervals.py](3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals.py) | `🐍 Python` |
+| 165 | **3418. Maximum Amount of Money Robot Can Earn** | [3418. Maximum Amount of Money Robot Can Earn.py](3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.py) | `🐍 Python` |
+| 166 | **3464. Maximize the Distance Between Points on a Square** | [3464. Maximize the Distance Between Points on a Square.py](3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square.py) | `🐍 Python` |
+| 167 | **3471. Find the Largest Almost Missing Integer** | [3471. Find the Largest Almost Missing Integer.py](3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer.py) | `🐍 Python` |
+| 168 | **3474. Lexicographically Smallest Generated String** | [3474. Lexicographically Smallest Generated String.py](3474.%20Lexicographically%20Smallest%20Generated%20String.py) | `🐍 Python` |
+| 169 | **3483. Unique 3-Digit Even Numbers** | [3483. Unique 3-Digit Even Numbers.py](3483.%20Unique%203-Digit%20Even%20Numbers.py) | `🐍 Python` |
+| 170 | **3488. Closest Equal Element Queries** | [3488. Closest Equal Element Queries.py](3488.%20Closest%20Equal%20Element%20Queries.py) | `🐍 Python` |
+| 171 | **3498. Reverse Degree of a String** | [3498. Reverse Degree of a String.py](3498.%20Reverse%20Degree%20of%20a%20String.py) | `🐍 Python` |
+| 172 | **3499. Maximize Active Section with Trade I** | [3499. Maximize Active Section with Trade I.py](3499.%20Maximize%20Active%20Section%20with%20Trade%20I.py) | `🐍 Python` |
+| 173 | **3501. Maximize Active Section with Trade II** | [3501. Maximize Active Section with Trade II.py](3501.%20Maximize%20Active%20Section%20with%20Trade%20II.py) | `🐍 Python` |
+| 174 | **3513. Number of Unique XOR Triplets I** | [3513. Number of Unique XOR Triplets I.py](3513.%20Number%20of%20Unique%20XOR%20Triplets%20I.py) | `🐍 Python` |
+| 175 | **3514. Number of Unique XOR Triplets II** | [3514. Number of Unique XOR Triplets II.py](3514.%20Number%20of%20Unique%20XOR%20Triplets%20II.py) | `🐍 Python` |
+| 176 | **3517. Smallest Palindromic Rearrangement I** | [3517. Smallest Palindromic Rearrangement I.py](3517.%20Smallest%20Palindromic%20Rearrangement%20I.py) | `🐍 Python` |
+| 177 | **3518. Smallest Palindromic Rearrangement II** | [3518. Smallest Palindromic Rearrangement II.py](3518.%20Smallest%20Palindromic%20Rearrangement%20II.py) | `🐍 Python` |
+| 178 | **3524. Find X Value of Array I** | [3524. Find X Value of Array I.py](3524.%20Find%20X%20Value%20of%20Array%20I.py) | `🐍 Python` |
+| 179 | **3525. Find X Value of Array II** | [3525. Find X Value of Array II.py](3525.%20Find%20X%20Value%20of%20Array%20II.py) | `🐍 Python` |
+| 180 | **3532. Path Existence Queries in a Graph I** | [3532. Path Existence Queries in a Graph I.py](3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I.py) | `🐍 Python` |
+| 181 | **3534. Path Existence Queries in a Graph II** | [3534. Path Existence Queries in a Graph II.py](3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II.py) | `🐍 Python` |
+| 182 | **3536. Maximum Product of Two Digits** | [3536. Maximum Product of Two Digits.py](3536.%20Maximum%20Product%20of%20Two%20Digits.py) | `🐍 Python` |
+| 183 | **3542. Minimum Operations to Convert All Elements to Zero** | [3542. Minimum Operations to Convert All Elements to Zero.py](3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py) | `🐍 Python` |
+| 184 | **3546. Equal Sum Grid Partition I** | [3546. Equal Sum Grid Partition I.py](3546.%20Equal%20Sum%20Grid%20Partition%20I.py) | `🐍 Python` |
+| 185 | **3548. Equal Sum Grid Partition II** | [3548. Equal Sum Grid Partition II.py](3548.%20Equal%20Sum%20Grid%20Partition%20II.py) | `🐍 Python` |
+| 186 | **3550. Smallest Index With Digit Sum Equal to Index** | [3550. Smallest Index With Digit Sum Equal to Index.py](3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index.py) | `🐍 Python` |
+| 187 | **3558. Number of Ways to Assign Edge Weights I** | [3558. Number of Ways to Assign Edge Weights I.py](3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I.py) | `🐍 Python` |
+| 188 | **3559. Number of Ways to Assign Edge Weights II** | [3559. Number of Ways to Assign Edge Weights II.py](3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II.py) | `🐍 Python` |
+| 189 | **3567. Minimum Absolute Difference in Sliding Submatrix** | [3567. Minimum Absolute Difference in Sliding Submatrix.py](3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.py) | `🐍 Python` |
+| 190 | **3568. Minimum Moves to Clean the Classroom** | [3568. Minimum Moves to Clean the Classroom.py](3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom.py) | `🐍 Python` |
+| 191 | **3600. Maximize Spanning Tree Stability with Upgrades** | [3600. Maximize Spanning Tree Stability with Upgrades.py](3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades.py) | `🐍 Python` |
+| 192 | **3607. Power Grid Maintenance** | [3607. Power Grid Maintenance.py](3607.%20Power%20Grid%20Maintenance.py) | `🐍 Python` |
+| 193 | **3612. Process String with Special Operations I** | [3612. Process String with Special Operations I.py](3612.%20Process%20String%20with%20Special%20Operations%20I.py) | `🐍 Python` |
+| 194 | **3614. Process String with Special Operations II** | [3614. Process String with Special Operations II.py](3614.%20Process%20String%20with%20Special%20Operations%20II.py) | `🐍 Python` |
+| 195 | **3620. Network Recovery Pathways** | [3620. Network Recovery Pathways.py](3620.%20Network%20Recovery%20Pathways.py) | `🐍 Python` |
+| 196 | **3622. Check Divisibility by Digit Sum and Product** | [3622. Check Divisibility by Digit Sum and Product.py](3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product.py) | `🐍 Python` |
+| 197 | **3629. Minimum Jumps to Reach End via Prime Teleportation** | [3629. Minimum Jumps to Reach End via Prime Teleportation.py](3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation.py) | `🐍 Python` |
+| 198 | **3633. Earliest Finish Time for Land and Water Rides I** | [3633. Earliest Finish Time for Land and Water Rides I.py](3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I.py) | `🐍 Python` |
+| 199 | **3635. Earliest Finish Time for Land and Water Rides II** | [3635. Earliest Finish Time for Land and Water Rides II.py](3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II.py) | `🐍 Python` |
+| 200 | **3643. Flip Square Submatrix Vertically** | [3643. Flip Square Submatrix Vertically.py](3643.%20Flip%20Square%20Submatrix%20Vertically.py) | `🐍 Python` |
+| 201 | **3653. XOR After Range Multiplication Queries I** | [3653. XOR After Range Multiplication Queries I.py](3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I.py) | `🐍 Python` |
+| 202 | **3655. XOR After Range Multiplication Queries II** | [3655. XOR After Range Multiplication Queries II.py](3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II.py) | `🐍 Python` |
+| 203 | **3658. GCD of Odd and Even Sums** | [3658. GCD of Odd and Even Sums.py](3658.%20GCD%20of%20Odd%20and%20Even%20Sums.py) | `🐍 Python` |
+| 204 | **3660. Jump Game IX** | [3660. Jump Game IX.py](3660.%20Jump%20Game%20IX.py) | `🐍 Python` |
+| 205 | **3661. Maximum Walls Destroyed by Robots** | [3661. Maximum Walls Destroyed by Robots.py](3661.%20Maximum%20Walls%20Destroyed%20by%20Robots.py) | `🐍 Python` |
+| 206 | **3689. Maximum Total Subarray Value I** | [3689. Maximum Total Subarray Value I.py](3689.%20Maximum%20Total%20Subarray%20Value%20I.py) | `🐍 Python` |
+| 207 | **3691. Maximum Total Subarray Value II** | [3691. Maximum Total Subarray Value II.py](3691.%20Maximum%20Total%20Subarray%20Value%20II.py) | `🐍 Python` |
+| 208 | **3699. Number of ZigZag Arrays I** | [3699. Number of ZigZag Arrays I.py](3699.%20Number%20of%20ZigZag%20Arrays%20I.py) | `🐍 Python` |
+| 209 | **3700. Number of ZigZag Arrays II** | [3700. Number of ZigZag Arrays II.py](3700.%20Number%20of%20ZigZag%20Arrays%20II.py) | `🐍 Python` |
+| 210 | **3702. Longest Subsequence With Non-Zero Bitwise XOR** | [3702. Longest Subsequence With Non-Zero Bitwise XOR.py](3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR.py) | `🐍 Python` |
+| 211 | **3718. Smallest Missing Multiple of K** | [3718. Smallest Missing Multiple of K.py](3718.%20Smallest%20Missing%20Multiple%20of%20K.py) | `🐍 Python` |
+| 212 | **3720. Lexicographically Smallest Permutation Greater Than Target** | [3720. Lexicographically Smallest Permutation Greater Than Target.py](3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target.py) | `🐍 Python` |
+| 213 | **3731. Find Missing Elements** | [3731. Find Missing Elements.py](3731.%20Find%20Missing%20Elements.py) | `🐍 Python` |
+| 214 | **3734. Lexicographically Smallest Palindromic Permutation Greater Than Target** | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target.py](3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target.py) | `🐍 Python` |
+| 215 | **3737. Count Subarrays With Majority Element I** | [3737. Count Subarrays With Majority Element I.py](3737.%20Count%20Subarrays%20With%20Majority%20Element%20I.py) | `🐍 Python` |
+| 216 | **3739. Count Subarrays With Majority Element II** | [3739. Count Subarrays With Majority Element II.py](3739.%20Count%20Subarrays%20With%20Majority%20Element%20II.py) | `🐍 Python` |
+| 217 | **3740. Minimum Distance Between Three Equal Elements I** | [3740. Minimum Distance Between Three Equal Elements I.py](3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I.py) | `🐍 Python` |
+| 218 | **3741. Minimum Distance Between Three Equal Elements II** | [3741. Minimum Distance Between Three Equal Elements II.py](3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II.py) | `🐍 Python` |
+| 219 | **3742. Maximum Path Score in a Grid** | [3742. Maximum Path Score in a Grid.py](3742.%20Maximum%20Path%20Score%20in%20a%20Grid.py) | `🐍 Python` |
+| 220 | **3751. Total Waviness of Numbers in Range I** | [3751. Total Waviness of Numbers in Range I.py](3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I.py) | `🐍 Python` |
+| 221 | **3753. Total Waviness of Numbers in Range II** | [3753. Total Waviness of Numbers in Range II.py](3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II.py) | `🐍 Python` |
+| 222 | **3754. Concatenate Non-Zero Digits and Multiply by Sum I** | [3754. Concatenate Non-Zero Digits and Multiply by Sum I.py](3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I.py) | `🐍 Python` |
+| 223 | **3756. Concatenate Non-Zero Digits and Multiply by Sum II** | [3756. Concatenate Non-Zero Digits and Multiply by Sum II.py](3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II.py) | `🐍 Python` |
+| 224 | **3761. Minimum Absolute Distance Between Mirror Pairs** | [3761. Minimum Absolute Distance Between Mirror Pairs.py](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py) | `🐍 Python` |
+| 225 | **3783. Mirror Distance of an Integer** | [3783. Mirror Distance of an Integer.py](3783.%20Mirror%20Distance%20of%20an%20Integer.py) | `🐍 Python` |
+| 226 | **3838. Weighted Word Mapping** | [3838. Weighted Word Mapping.py](3838.%20Weighted%20Word%20Mapping.py) | `🐍 Python` |
+| 227 | **3867. Sum of GCD of Formed Pairs** | [3867. Sum of GCD of Formed Pairs.py](3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs.py) | `🐍 Python` |
+| 228 | **3870. Count Commas in Range** | [3870. Count Commas in Range.py](3870.%20Count%20Commas%20in%20Range.py) | `🐍 Python` |
+| 229 | **3871. Count Commas in Range II** | [3871. Count Commas in Range II.py](3871.%20Count%20Commas%20in%20Range%20II.py) | `🐍 Python` |
+| 230 | **3875. Construct Uniform Parity Array I** | [3875. Construct Uniform Parity Array I.py](3875.%20Construct%20Uniform%20Parity%20Array%20I.py) | `🐍 Python` |
+| 231 | **3876. Construct Uniform Parity Array II** | [3876. Construct Uniform Parity Array II.py](3876.%20Construct%20Uniform%20Parity%20Array%20II.py) | `🐍 Python` |
+| 232 | **3903. Smallest Stable Index I** | [3903. Smallest Stable Index I.py](3903.%20Smallest%20Stable%20Index%20I.py) | `🐍 Python` |
+| 233 | **3904. Smallest Stable Index II** | [3904. Smallest Stable Index II.py](3904.%20Smallest%20Stable%20Index%20II.py) | `🐍 Python` |
 
 </details>
 
@@ -388,7 +389,7 @@ Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for open-
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,30:18181b,50:2d1b06,70:18181b,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-**Crafted with 💖 & relentless curiosity &bull; Last updated:** October 7, 2026 🗓️
+**Crafted with 💖 & relentless curiosity &bull; Last updated:** October 11, 2026 🗓️
 
 [![Back to Top](https://img.shields.io/badge/-%E2%AC%86%EF%B8%8F%20Back%20to%20Top-1e1b4b?style=for-the-badge)](#top)
 
