@@ -9,13 +9,13 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Babin123456/LeetCode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=245%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=246%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
 <!-- SHIELD BADGES -->
-[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-245_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-246_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Repo Status](https://img.shields.io/badge/Status-Active_Daily_Practice-00C853?style=for-the-badge&logo=githubactions&logoColor=white)](#overview)
@@ -46,7 +46,7 @@ vault_profile = {
     "languages"   : ["Python 3.13.9", "C++17"],
     "standards"   : ["Optimal Time & Space Complexity", "PEP8 Compliant", "Modular"],
     "core_domains": ["Dynamic Programming", "Graph Theory", "Trees", "Game Theory", "Data Structures"],
-    "status"      : "245+ Problems Solved & Actively Growing 🚀"
+    "status"      : "246+ Problems Solved & Actively Growing 🚀"
 }
 
 def solve_challenge():
@@ -69,8 +69,8 @@ def solve_challenge():
 
 | Metric | Details | Badge |
 | :--- | :---: | :---: |
-| 🧩 **Total Solutions** | **245 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-245-00E676?style=flat-square&logo=leetcode&logoColor=white) |
-| 🐍 **Python Solutions** | **241 Files** | ![Python](https://img.shields.io/badge/Python-241-38BDF8?style=flat-square&logo=python&logoColor=white) |
+| 🧩 **Total Solutions** | **246 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-246-00E676?style=flat-square&logo=leetcode&logoColor=white) |
+| 🐍 **Python Solutions** | **242 Files** | ![Python](https://img.shields.io/badge/Python-242-38BDF8?style=flat-square&logo=python&logoColor=white) |
 | 💠 **C++ Solutions** | **4 Files** | ![C++](https://img.shields.io/badge/C%2B%2B-4-A78BFA?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | 📈 **Consistency** | **Active & Growing** | ![Streak](https://img.shields.io/badge/Practice-Daily-FF6D00?style=flat-square&logo=target&logoColor=white) |
 
@@ -112,7 +112,7 @@ def solve_challenge():
 ## 📋 Problem Index
 
 <details open>
-<summary><b>📜 Click to Collapse / Expand Full Problem Archive (245 Solved Problems)</b></summary>
+<summary><b>📜 Click to Collapse / Expand Full Problem Archive (246 Solved Problems)</b></summary>
 
 <br />
 
@@ -355,14 +355,15 @@ def solve_challenge():
 | 235 | **3761. Minimum Absolute Distance Between Mirror Pairs** | [3761. Minimum Absolute Distance Between Mirror Pairs.py](3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.py) | `🐍 Python` |
 | 236 | **3783. Mirror Distance of an Integer** | [3783. Mirror Distance of an Integer.py](3783.%20Mirror%20Distance%20of%20an%20Integer.py) | `🐍 Python` |
 | 237 | **3838. Weighted Word Mapping** | [3838. Weighted Word Mapping.py](3838.%20Weighted%20Word%20Mapping.py) | `🐍 Python` |
-| 238 | **3867. Sum of GCD of Formed Pairs** | [3867. Sum of GCD of Formed Pairs.py](3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs.py) | `🐍 Python` |
-| 239 | **3870. Count Commas in Range** | [3870. Count Commas in Range.py](3870.%20Count%20Commas%20in%20Range.py) | `🐍 Python` |
-| 240 | **3871. Count Commas in Range II** | [3871. Count Commas in Range II.py](3871.%20Count%20Commas%20in%20Range%20II.py) | `🐍 Python` |
-| 241 | **3875. Construct Uniform Parity Array I** | [3875. Construct Uniform Parity Array I.py](3875.%20Construct%20Uniform%20Parity%20Array%20I.py) | `🐍 Python` |
-| 242 | **3876. Construct Uniform Parity Array II** | [3876. Construct Uniform Parity Array II.py](3876.%20Construct%20Uniform%20Parity%20Array%20II.py) | `🐍 Python` |
-| 243 | **3886. Sum of Sortable Integers** | [3886. Sum of Sortable Integers.cpp](3886.%20Sum%20of%20Sortable%20Integers.cpp) | `💠 C++` |
-| 244 | **3903. Smallest Stable Index I** | [3903. Smallest Stable Index I.py](3903.%20Smallest%20Stable%20Index%20I.py) | `🐍 Python` |
-| 245 | **3904. Smallest Stable Index II** | [3904. Smallest Stable Index II.py](3904.%20Smallest%20Stable%20Index%20II.py) | `🐍 Python` |
+| 238 | **3863. Minimum Operations to Sort a String** | [3863. Minimum Operations to Sort a String.py](3863.%20Minimum%20Operations%20to%20Sort%20a%20String.py) | `🐍 Python` |
+| 239 | **3867. Sum of GCD of Formed Pairs** | [3867. Sum of GCD of Formed Pairs.py](3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs.py) | `🐍 Python` |
+| 240 | **3870. Count Commas in Range** | [3870. Count Commas in Range.py](3870.%20Count%20Commas%20in%20Range.py) | `🐍 Python` |
+| 241 | **3871. Count Commas in Range II** | [3871. Count Commas in Range II.py](3871.%20Count%20Commas%20in%20Range%20II.py) | `🐍 Python` |
+| 242 | **3875. Construct Uniform Parity Array I** | [3875. Construct Uniform Parity Array I.py](3875.%20Construct%20Uniform%20Parity%20Array%20I.py) | `🐍 Python` |
+| 243 | **3876. Construct Uniform Parity Array II** | [3876. Construct Uniform Parity Array II.py](3876.%20Construct%20Uniform%20Parity%20Array%20II.py) | `🐍 Python` |
+| 244 | **3886. Sum of Sortable Integers** | [3886. Sum of Sortable Integers.cpp](3886.%20Sum%20of%20Sortable%20Integers.cpp) | `💠 C++` |
+| 245 | **3903. Smallest Stable Index I** | [3903. Smallest Stable Index I.py](3903.%20Smallest%20Stable%20Index%20I.py) | `🐍 Python` |
+| 246 | **3904. Smallest Stable Index II** | [3904. Smallest Stable Index II.py](3904.%20Smallest%20Stable%20Index%20II.py) | `🐍 Python` |
 
 </details>
 
@@ -401,7 +402,7 @@ Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for open-
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,30:18181b,50:2d1b06,70:18181b,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-**Crafted with 💖 & relentless curiosity &bull; Last updated:** October 20, 2026 🗓️
+**Crafted with 💖 & relentless curiosity &bull; Last updated:** October 21, 2026 🗓️
 
 [![Back to Top](https://img.shields.io/badge/-%E2%AC%86%EF%B8%8F%20Back%20to%20Top-1e1b4b?style=for-the-badge)](#top)
 
