@@ -1,37 +1,24 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
         n = len(nums)
-        target = list(range(n))
+        zero = nums.index(0)
         
-        def get_shift(arr):
-            extended = arr + arr
-            target_tuple = tuple(target)
-            for i in range(n):
-                if tuple(extended[i : i + n]) == target_tuple:
-                    return i
-            return float('inf')
-
-        min_ops = float('inf')
+        def check(step: int) -> bool:
+            for i in range(1, n):
+                prev = (zero + (i - 1) * step) % n
+                curr = (zero + i * step) % n
+                if nums[prev] > nums[curr]:
+                    return False
+            return True
+            
+        ans = float('inf')
         
-        shift = get_shift(nums)
-        if shift != float('inf'):
-            min_ops = min(min_ops, shift)
+        if check(1):
+            ans = min(ans, zero)
+            ans = min(ans, n - zero + 2)
             
-        rev_nums = nums[::-1]
-        shift = get_shift(rev_nums)
-        if shift != float('inf'):
-            min_ops = min(min_ops, 1 + shift)
+        if check(-1):
+            ans = min(ans, zero + 2)
+            ans = min(ans, n - zero)
             
-        for i in range(n):
-            rotated = nums[i:] + nums[:i]
-            if rotated[::-1] == target:
-                min_ops = min(min_ops, i + 1)
-                
-        for i in range(n):
-            rotated = nums[i:] + nums[:i]
-            rev_rotated = rotated[::-1]
-            shift2 = get_shift(rev_rotated)
-            if shift2 != float('inf'):
-                min_ops = min(min_ops, i + 1 + shift2)
-                
-        return min_ops if min_ops != float('inf') else -1
+        return ans if ans != float('inf') else -1
