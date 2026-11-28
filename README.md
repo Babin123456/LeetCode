@@ -9,13 +9,13 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Babin123456/LeetCode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=282%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=650&height=45&lines=283%2B+Optimized+LeetCode+Solutions+%F0%9F%9A%80;Python+3.13+%26+C%2B%2B17+Implementations+%E2%9C%A8;DP+%E2%80%A2+Graphs+%E2%80%A2+Trees+%E2%80%A2+Bit+Manipulation;Clean%2C+Modular+%26+High-Performance+Code" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
 <!-- SHIELD BADGES -->
-[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-282_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-283_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Repo Status](https://img.shields.io/badge/Status-Active_Daily_Practice-00C853?style=for-the-badge&logo=githubactions&logoColor=white)](#overview)
@@ -46,7 +46,7 @@ vault_profile = {
     "languages"   : ["Python 3.13.9", "C++17"],
     "standards"   : ["Optimal Time & Space Complexity", "PEP8 Compliant", "Modular"],
     "core_domains": ["Dynamic Programming", "Graph Theory", "Trees", "Game Theory", "Data Structures"],
-    "status"      : "282+ Problems Solved & Actively Growing 🚀"
+    "status"      : "283+ Problems Solved & Actively Growing 🚀"
 }
 
 def solve_challenge():
@@ -69,8 +69,8 @@ def solve_challenge():
 
 | Metric | Details | Badge |
 | :--- | :---: | :---: |
-| 🧩 **Total Solutions** | **282 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-282-00E676?style=flat-square&logo=leetcode&logoColor=white) |
-| 🐍 **Python Solutions** | **278 Files** | ![Python](https://img.shields.io/badge/Python-278-38BDF8?style=flat-square&logo=python&logoColor=white) |
+| 🧩 **Total Solutions** | **283 Problems** | ![Solved](https://img.shields.io/badge/Total_Solved-283-00E676?style=flat-square&logo=leetcode&logoColor=white) |
+| 🐍 **Python Solutions** | **279 Files** | ![Python](https://img.shields.io/badge/Python-279-38BDF8?style=flat-square&logo=python&logoColor=white) |
 | 💠 **C++ Solutions** | **4 Files** | ![C++](https://img.shields.io/badge/C%2B%2B-4-A78BFA?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | 📈 **Consistency** | **Active & Growing** | ![Streak](https://img.shields.io/badge/Practice-Daily-FF6D00?style=flat-square&logo=target&logoColor=white) |
 
@@ -112,7 +112,7 @@ def solve_challenge():
 ## 📋 Problem Index
 
 <details open>
-<summary><b>📜 Click to Collapse / Expand Full Problem Archive (282 Solved Problems)</b></summary>
+<summary><b>📜 Click to Collapse / Expand Full Problem Archive (283 Solved Problems)</b></summary>
 
 <br />
 
@@ -398,8 +398,9 @@ def solve_challenge():
 | 278 | **3904. Smallest Stable Index II** | [3904. Smallest Stable Index II.py](3904.%20Smallest%20Stable%20Index%20II.py) | `🐍 Python` |
 | 279 | **3934. Smallest Unique Subarray** | [3934. Smallest Unique Subarray.py](3934.%20Smallest%20Unique%20Subarray.py) | `🐍 Python` |
 | 280 | **3942. Minimum Operations to Sort a Permutation** | [3942. Minimum Operations to Sort a Permutation.py](3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation.py) | `🐍 Python` |
-| 281 | **3963. Create Grid With Exactly One Path** | [3963. Create Grid With Exactly One Path.py](3963.%20Create%20Grid%20With%20Exactly%20One%20Path.py) | `🐍 Python` |
-| 282 | **3970. Shortest Path With At Most K Consecutive Identical Characters** | [3970. Shortest Path With At Most K Consecutive Identical Characters.py](3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters.py) | `🐍 Python` |
+| 281 | **3946. Maximum Number of Items From Sale I** | [3946. Maximum Number of Items From Sale I.py](3946.%20Maximum%20Number%20of%20Items%20From%20Sale%20I.py) | `🐍 Python` |
+| 282 | **3963. Create Grid With Exactly One Path** | [3963. Create Grid With Exactly One Path.py](3963.%20Create%20Grid%20With%20Exactly%20One%20Path.py) | `🐍 Python` |
+| 283 | **3970. Shortest Path With At Most K Consecutive Identical Characters** | [3970. Shortest Path With At Most K Consecutive Identical Characters.py](3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters.py) | `🐍 Python` |
 
 </details>
 
